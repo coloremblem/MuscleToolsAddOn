@@ -1,0 +1,9 @@
+Changelog:
+
+v1.0.0
+	- converting to addon
+	- creating tool shelf tab for the muscle tools
+
+TODO dani:
+ - getting content in the tool shelf tab
+ - cleanup tool shelf tab
